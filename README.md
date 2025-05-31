@@ -1,77 +1,78 @@
-# BlogBox
-BlogBox is a minimal, bold, responsive, and easy-to-use Jekyll theme. It’s a perfect fit for artists, photographers, or creative bloggers looking for a bold design theme.
+# Frisco
 
-[Live Demo](https://blogbox.netlify.app/)
+App promotion themed template for Jekyll. Browse through a [live demo](https://brave-submarine.cloudvent.net/).
+Increase the web presence of a App with this configurable theme.
 
-# Premium Jekyll Themes
+![Frisco template screenshot](images/_screenshot.jpg)
 
-You can find our premium Jekyll themes here -> [jekyllthemes.io](https://jekyllthemes.io/developers/just-good-themes)
+Frisco was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
 
-## Preview
+Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
 
-[![Blogbox preview](/blogbox_preview.jpeg "Blogbox preview")](https://blogbox.netlify.app/)
+[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/frisco-jekyll-template)
 
-## Theme features
+## Features
 
-+ Responsive layout – your blog will be accessible on various devices (iPhone, iPad, Android, etc.)
-+ Clean, well commented code, easy to customize
-+ Optional fixed navigation
-+ Author information
-+ Tag page support
-+ Code syntax highlighter
-+ Newsletter, latest posts and tag cloud widgets
-+ Sharing post integration
-+ Social media icons
+* Contact form
+* Pre-built pages
+* Pre-styled components
+* Blog with pagination
+* Post category pages
+* Disqus comments for posts
+* Staff and author system
+* Configurable footer
+* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
+* RSS/Atom feed
+* SEO tags
+* Google Analytics
 
-## Local Installation
-> How to install and use the theme
+## Setup
 
-_Note: this theme cannot be installed as a gem in your Gemfile and config, therefore the only way to use this theme is to clone the entire repo and put your content in it among the styling._
+1. Add your site and author details in `_config.yml`.
+2. Add your Google Analytics and Disqus keys to `_config.yml`.
+3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
 
-Install Jekyll as per [Jekyll docs](https://jekyllrb.com/docs/).
+## Develop
 
-Clone the repo or your fork.
+Frisco was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
 
-Navigate to the repo.
+Install the dependencies with [Bundler](http://bundler.io/):
 
-Install the dependencies:
-
-```sh
-$ bundle config set --local path vendor/bundle
+~~~bash
 $ bundle install
-```
+~~~
 
-Start a dev server, with verbose error traces:
+Run `jekyll` commands through Bundler to ensure you're using the right versions:
 
-```sh
-$ bundle exec jekyll serve --trace
-```
+~~~bash
+$ bundle exec jekyll serve
+~~~
 
-## Development
-> How to set up and run the theme as a standalone site locally
+## Editing
 
-Follow the steps in the section above.
+Frisco is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in CloudCannon.
 
-## Deployment
+### Posts
 
-Please see the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on the Jekyll website.
+* Add, update or remove a post in the *Posts* collection.
+* The **Staff Author** field links to members in the **Staff Members** collection.
+* Documentation pages are organised in the navigation by category, with URLs based on the path inside the `_docs` folder.
+* Change the defaults when new posts are created in `_posts/_defaults.md`.
 
-### Manual Deployment
+### Contact Form
 
-Jekyll outputs your static site to the `_site`. directory by default. You can transfer the contents of this directory to almost any hosting provider to get your site live. This can be tedious, so some automated deploy approaches are listed below.
+* Preconfigured to work with CloudCannon, but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
 
-### Netlify
+### Staff
 
-This theme is prepared to be hosted on [Netlify](https://www.netlify.com/). All you need to do is create a new public or private repository on GitHub or GitLab. Upload the theme to the repository and link your repo to Netlify. Please check this [blog post](https://www.netlify.com/blog/2015/10/28/a-step-by-step-guide-jekyll-3.0-on-netlify/#step-2-link-to-your-github) for step-by-step guidelines.
+* Reused around the site to save multiple editing locations.
 
-### Amazon S3
+### Footer
 
-If you want to host your site on Amazon S3, you can do so by using the [s3_website application](https://github.com/laurilehmijoki/s3_website). It will push your site to Amazon S3, where it can be served like any web server, dynamically scaling to almost unlimited traffic. Well, S3 itself is not built for speed so you probably want to put some CDN like CloudFront on top of your S3 objects.
+* Exposed as a data file to give clients better access.
+* Set in the *Data* / *Navigation* section.
 
-### GitHub Pages
+### Footer
 
-See the [GitHub Actions](https://jekyllrb.com/docs/continuous-integration/github-actions/) deploy guide on Jekyll docs to build with GitHub Actions and host with GitHub Pages.
-
-## License
-
-Licensed under [MIT](/LICENSE).
+* Exposed as a data file to give clients better access.
+* Set in the *Data* / *Footer* section.
