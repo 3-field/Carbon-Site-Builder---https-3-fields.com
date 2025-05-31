@@ -15,5 +15,5 @@ As a specific movement in the arts it is identified with developments in post–
 <h2>Motorcycle Ride</h2>
 
 {% include image_full.html imageurl="images/logo/8_AND Logo Slide copy.jpg" title="TEST" caption="Riding In The Woods" %}
-
+![alt text](images/logo/8_AND Logo Slide copy.jpg)
 The terms have expanded to encompass a movement in music that features such repetition and iteration as those of the compositions of<em> La Monte Young, Terry Riley, Steve Reich, Philip Glass, and John Adams</em>. Minimalist compositions are sometimes known as systems music. The term "minimalist" often colloquially refers to anything that is spare or stripped to its essentials. It has also been used to describe the plays and novels of Samuel Beckett, the films of Robert Bresson, the stories of Raymond Carver, and the automobile designs of Colin Chapman. The word was first used in English in the early 20th century to describe the Mensheviks.
