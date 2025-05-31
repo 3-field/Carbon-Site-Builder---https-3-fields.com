@@ -6,17 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site title
-title: BlogBox
+title: Three Fields
 
 # Below the site title
-tagline: Tales of a digital nomad.
+tagline: A new international co-commission between, India, South Africa and the United Kingdom.
 
 # Site logo
 logo:
 
 # A description of your site for social meta tag, search engines, and feed.xml
 description: |
-  BlogBox is a bold theme for the Jekyll blogging platform. Available for purchase at ThemeForest.net.
+  Three Fields is a new international co-commission between, India, South Africa and the United Kingdom.
 
 # The base hostname & protocol of your site for where absolute urls are needed
 url: https://blogbox.netlify.app
