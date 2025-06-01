@@ -10,6 +10,7 @@
 
 .button a:hover, input[type=submit]:hover {
 	background: $brand-color-1;
+	border: 2px solid $brand-color-1;
 	color: #fff;
 	cursor: pointer;
 }
