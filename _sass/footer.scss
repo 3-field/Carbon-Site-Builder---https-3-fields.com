@@ -2,19 +2,19 @@ footer {
 	font-size: .6em;
 	position: relative;
 	background: #AAB8EA;
-	color: #000000;
+        color: #000;
 
 	&,
 	a {
-		color: #000000;
+		color: #000;
 	}
 
 	a {
 		text-decoration: none;
 		padding: 0 10px;
-
+                
 		&:hover {
-			color: #fff;
+			color: #333;
 		}
 	}
 
