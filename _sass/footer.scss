@@ -14,7 +14,7 @@ footer {
 		padding: 0 10px;
                 
 		&:hover {
-			color: #333;
+			color: $brand-color-1;
 		}
 	}
 
@@ -52,10 +52,10 @@ footer {
 				}
 
 				&:hover svg {
-					fill: #fff;
+					fill: $brand-color-1;
 				}
 
-				&.twitter-icon:hover svg {
+				<!-- &.twitter-icon:hover svg {
 					fill: #55acee;
 				}
 
@@ -81,7 +81,7 @@ footer {
 
 				&.rss-icon:hover svg {
 					fill: #f26522;
-				}
+				} -->
 			}
 		}
 	}
