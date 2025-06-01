@@ -14,7 +14,7 @@ footer {
 		padding: 0 10px;
                 
 		&:hover {
-			color: $brand-color-1;
+			color: $brand-color-2;
 		}
 	}
 
@@ -44,7 +44,7 @@ footer {
 					text-decoration: none;
 				}
 				svg {
-					fill: #999;
+					fill:  #000;
 					transition: fill 0.2s ease;
 					vertical-align: middle;
 					width: 18px;
@@ -52,7 +52,7 @@ footer {
 				}
 
 				&:hover svg {
-					fill: $brand-color-1;
+					fill: $brand-color-2;
 				}
 
 
