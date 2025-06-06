@@ -1,20 +1,20 @@
 ---
-title: What is a friend?
+title: Lorem Ipsum
 date: 2016-07-20
-description: Exploring the mechanics of friendship
+description:Lorem Ipsum
 categories:
   - friends
 image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
 author_staff_member: anna
 ---
-Friendship is a relationship of mutual affection between people. Friendship is a stronger form of interpersonal bond than an association. Friendship has been studied in academic fields such as sociology, social psychology, anthropology, and philosophy. Various academic theories of friendship have been proposed, including social exchange theory, equity theory, relational dialectics, and attachment styles. A World Happiness Database study found that people with close friendships are happier.
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin feugiat mi ut efficitur suscipit. Duis vitae felis molestie, eleifend lacus id, molestie leo. Morbi ante massa, ultricies eget lacinia tincidunt, finibus a quam. Etiam aliquam mi magna, vitae lacinia justo euismod sit amet. Proin dui nisi, pretium efficitur nulla in, gravida tincidunt lacus. Mauris sagittis neque et nunc mollis, et efficitur mauris tincidunt. Donec convallis euismod justo, ut vehicula libero efficitur id. 
 
-![Checkmate](https://source.unsplash.com/random/1500x1000)
+![Place holder](http://placehold.it/650x1300)
 
-## Forms of friendship
+## Lorem Ipsum
 
-Although there are many forms of friendship, some of which may vary from place to place, certain characteristics are present in many types of bond. Such characteristics include affection, sympathy, empathy, honesty, altruism, mutual understanding, and compassion, enjoyment of each other's company, trust, and the ability to be oneself, express one's feelings, and make mistakes without fear of judgment from the friend.
+ In lorem justo, pulvinar fringilla sollicitudin aliquet, pharetra sed arcu. Cras dictum neque eget laoreet fringilla. Donec posuere, nulla quis molestie consequat, erat velit pretium elit, nec pellentesque mi nisi vitae diam. In in erat eu est euismod facilisis eu vel diam. Nulla nisl odio, bibendum condimentum libero eget, ullamcorper rutrum eros. Duis non nisl vel neque varius blandit at id massa. Sed finibus dictum massa vel aliquet. Fusce eu porta ex. Ut facilisis augue a maximus pretium. Sed bibendum ultricies convallis. Curabitur eu risus vulputate, semper dolor ut, consequat orci. 
 
-While there is no practical limit on what types of people can form a friendship, friends tend to share common backgrounds, occupations, or interests and have similar demographics.
+ Praesent id placerat sapien. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer blandit quam a nunc scelerisque, eu feugiat arcu maximus. Sed gravida maximus arcu, a bibendum metus lobortis vel. Donec semper consectetur faucibus. Suspendisse rhoncus pharetra laoreet. Quisque in massa eros. Aenean sed ligula sed tellus mattis commodo vel sed ligula. 
 
-![Raspberries](https://source.unsplash.com/random/1500x1001)
+![Place holder](http://placehold.it/650x1300)
