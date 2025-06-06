@@ -35,31 +35,14 @@
 		</header>
 		{{ content }}
 		<footer>
-			<div class="container">
-				<p class="editor-link"><a href="cloudcannon:collections/_data/footer.yml" class="btn"><strong>&#9998;</strong> Edit footer</a></p>
-				<ul class="footer-left-links">
-					{% for link in site.data.footer.left_links %}
-						<li>
-							<a {% if link.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon | slugify }}-icon"{% endif %}>
-								{% if link.social_icon %}{% include social-icon.html icon=link.social_icon %}{% endif %}
-								{{ link.name }}
-							</a>
-						</li>
-					{% endfor %}
-				</ul>
-				<ul class="footer-right-links">
-					{% for link in site.data.footer.right_links %}
-						<li>
-							<a {% if link.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon | slugify }}-icon"{% endif %}>
-								{% if link.social_icon %}{% include social-icon.html icon=link.social_icon %}{% endif %}
-								{{ link.name }}
-							</a>
-						</li>
-					{% endfor %}
-				</ul>
                                 <div class="images" style="display: flex; gap: 10px; align-items: center; justify-content: center; flex-wrap: wrap;">
 				    <img class="editable" height= 50 src="https://3-fields.b-cdn.net/logos/British_Council_Logo_Black.png" alt="Screenshot" />
                                     <img class="editable" height= 50 src="https://3-fields.b-cdn.net/logos/grant_png_black.png" alt="Screenshot" />
+                                    <img class="editable" height= 50 src="https://3-fields.b-cdn.net/logos/AND%20Logos/AND_Logo_Black%20copy%202.png" alt="Screenshot" />
+                                    <img class="editable" height= 50 src="https://3-fields.b-cdn.net/logos/Unboxed%20Logos/Screen_SingleColourStrokeSquare.png" alt="Screenshot" />
+                                    <img class="editable" height= 50 src="https://3-fields.b-cdn.net/logos/Fak_ugesi%20Festival%20Logos/Fak_ugesi%20TP%20Website%20rev02.png" alt="Screenshot" />
+                                        <img class="editable" height= 50 src="https://3-fields.b-cdn.net/logos/Fast%20Familiar%20Logos/square-image.png" alt="Screenshot" />
+                                        <img class="editable" height= 50 src="https://3-fields.b-cdn.net/logos/Arts%20Catalyst%20logo/AC_MailChimp_Logo.png" alt="Screenshot" />
 			    </div>
 			</div>
 		</footer>
