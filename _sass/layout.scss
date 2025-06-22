@@ -100,11 +100,15 @@ header {
 
 .info img {
 		max-height: 650px;
+   
 }
 
+hr.solid {
+  border-top: 4px solid black;
+  margin-bottom: 10px;
+}
 .info {
 	padding: 0 0 100px 0;
-
 	&:first-child {
 		padding-top: 100px;
 	}
