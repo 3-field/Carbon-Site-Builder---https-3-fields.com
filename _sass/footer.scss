@@ -17,6 +17,15 @@ footer {
 			color: $brand-color-2;
 		}
 	}
+        .images {
+        	display: flex;
+        	flex-wrap: wrap;
+        	justify-content: center;
+        	align-items: center;
+        	gap: 20px; // Controls spacing between logos
+        	padding: 20px 0;
+        }
+    
 
 	ul {
 		padding: 0;
