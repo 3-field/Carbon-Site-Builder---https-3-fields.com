@@ -13,7 +13,7 @@ Fast Familiar have created a digital climate action site builder: a tool which l
 If you want to know why, keep reading. If you’re not interested in why and you might want to use the tool, skip down to FAQs.
 
 ![Man](https://fastfamiliar.b-cdn.net/sitebuilder/image.png)
----
+
 
 ## Why?
 
@@ -33,7 +33,6 @@ To develop our own design brief, we did workshops with people from theatre, danc
 
 This work builds on some previous activity, a project called *The Networked Condition* which we did with Arts Catalyst and Abandon Normal Devices. There’s a website for that where you can check out interviews with artists about how they are taking climate action, and a free tool you can use to plan your own activities. :contentReference[oaicite:1]{index=1}
 
----
 
 ## FAQs
 
@@ -89,13 +88,11 @@ They would be delighted to hear from you. :contentReference[oaicite:12]{index=12
 
 Digital Climate Action site builder is created using public funding from Arts Council England. :contentReference[oaicite:13]{index=13}
 
----
 
 ## Recent Articles & Updates
 
 *(Not listed here — see the original page.)*
 
----
 
 ## Sign up for “culture + connection”
 
@@ -110,7 +107,6 @@ I would like Fast Familiar to keep me updated via email
 
 *(They use Mailchimp — unsubscribing anytime.)* :contentReference[oaicite:14]{index=14}
 
----
 
 ## How can we help you?
 
@@ -123,7 +119,6 @@ If you’d like to collaborate on something new, have a question about audience�
 - Instagram  
 - Facebook
 
----
 
 *This site is powered using 100% renewable energy*  
 *Build:* `06411ca`  
