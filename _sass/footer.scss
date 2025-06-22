@@ -72,6 +72,15 @@ footer {
 	}
 }
 
+footer .images {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	gap: 20px; // Adjust the spacing between images
+	padding: 10px 0;
+}
+
 .copyright {
 	margin: 15px auto;
 	float: left;
