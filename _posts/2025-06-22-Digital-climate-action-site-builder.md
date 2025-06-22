@@ -6,15 +6,13 @@ categories:
 image: https://3-fields.b-cdn.net/graphics/TF_VisualGraphic-06-03.jpg
 author_staff_member: Fast_Familiar
 ---
-
-![Man](https://fastfamiliar.b-cdn.net/sitebuilder/image.png)
-
  # Digital climate action site builder
 
 Fast Familiar have created a digital climate action site builder: a tool which lets you build a website which does not have a carbon footprint.
 
 If you want to know why, keep reading. If you’re not interested in why and you might want to use the tool, skip down to FAQs.
 
+![Man](https://fastfamiliar.b-cdn.net/sitebuilder/image.png)
 ---
 
 ## Why?
