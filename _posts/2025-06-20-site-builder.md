@@ -1,6 +1,6 @@
 ---
 title: Digital climate action site builder
-date: 2025-06-21
+date: 2025-06-20
 description: Fast Familiar have created a digital climate action site builder: a tool which lets you build a website which does not have a carbon footprint.
 categories:
 image: https://3-fields.b-cdn.net/graphics/TF_VisualGraphic-06-03.jpg
