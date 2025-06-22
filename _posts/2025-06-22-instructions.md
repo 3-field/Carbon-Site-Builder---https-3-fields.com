@@ -6,8 +6,7 @@ categories:
 image: https://3-fields.b-cdn.net/graphics/TF_VisualGraphic-06-03.jpg
 author_staff_member: Fast_Familiar
 ---
-# Instructions 📝
-## Welcome to Your First Carbon Neutral Site 🎉🌲
+
 We're thrilled to have you on board at our carbon-neutral site! This quickstart guide will help you get started. We recommend giving it a quick read before you dive in.
 
 ## Building your site
