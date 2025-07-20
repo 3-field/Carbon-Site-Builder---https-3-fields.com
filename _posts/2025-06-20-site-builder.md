@@ -34,7 +34,7 @@ So we’ve been working on a tool to let artists, creatives and small organisati
 
 To develop our own design brief, we did workshops with people from theatre, dance, the visual arts, music, photography, film‑making and digital art to understand what they wanted and needed from a website. We had £8,820 from Arts Council England to work on this project, which we spent paying people – ourselves and the artists we consulted with to develop and test the tool. The funding is gratefully received but it’s not a huge amount of money. This is a prototype and it will likely never be as shiny or slick as the off‑the‑peg platforms mentioned above, because we aren’t a big corporation. We’re releasing this first iteration of the tool as a work in progress, to see how it serves people’s needs and to identify how we might develop it further in future.
 
-This work builds on some previous activity, a project called *The Networked Condition* which we did with Arts Catalyst and Abandon Normal Devices. There’s a website for that where you can check out interviews with artists about how they are taking climate action, and a free tool you can use to plan your own activities. :contentReference[oaicite:1]{index=1}
+This work builds on some previous activity, a project called *The Networked Condition* which we did with Arts Catalyst and Abandon Normal Devices. There’s a website for that where you can check out interviews with artists about how they are taking climate action, and a free tool you can use to plan your own activities. 
 
 
 ## FAQs
@@ -55,7 +55,7 @@ Not at all. The site builder is built to be data‑redundant; they just provide 
 
 ### Why is it free? Where’s the catch?
 
-There isn’t one – honestly. It’s free because it should be, and because Fast Familiar had arts funding to support its creation. :contentReference[oaicite:4]{index=4}
+There isn’t one – honestly. It’s free because it should be, and because Fast Familiar had arts funding to support its creation.
 
 ### What do FF get out of it?
 
