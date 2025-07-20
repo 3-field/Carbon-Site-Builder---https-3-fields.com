@@ -47,11 +47,11 @@ The website builder itself is really lightweight and can be hosted on micro‑se
 
 We’ve also only used third‑parties who are verifiably carbon‑neutral and have committed to sustaining neutrality or carbon‑negative practices. These are Hetzner and Microsoft.
 
-It’s all very well getting your own house – or site – in order but you don’t have any control over what electricity the visitors to your site are using for their device and router. So the websites that the site builder makes are *static websites*, which means that visitors to the site use less bandwidth (and therefore less electricity) to view them. Static here doesn’t mean that you can’t have moving things and videos – it means your site is a bunch of code which doesn’t require fancy databases or a responsive server. :contentReference[oaicite:2]{index=2}
+It’s all very well getting your own house – or site – in order but you don’t have any control over what electricity the visitors to your site are using for their device and router. So the websites that the site builder makes are *static websites*, which means that visitors to the site use less bandwidth (and therefore less electricity) to view them. Static here doesn’t mean that you can’t have moving things and videos – it means your site is a bunch of code which doesn’t require fancy databases or a responsive server.
 
 ### You say it’s a prototype – what happens if I put a load of work into using it to build a site and then you discontinue it, will I lose all my work?
 
-Not at all. The site builder is built to be data‑redundant; they just provide a user interface to make editing the files easier. Behind the scenes it uses an open‑sourced website framework called Jekyll, paired with GitHub Pages for hosting. If discontinued, your website will continue to work on GitHub Pages and you can still edit files there. :contentReference[oaicite:3]{index=3}
+Not at all. The site builder is built to be data‑redundant; they just provide a user interface to make editing the files easier. Behind the scenes it uses an open‑sourced website framework called Jekyll, paired with GitHub Pages for hosting. If discontinued, your website will continue to work on GitHub Pages and you can still edit files there.
 
 ### Why is it free? Where’s the catch?
 
@@ -59,71 +59,34 @@ There isn’t one – honestly. It’s free because it should be, and because Fa
 
 ### What do FF get out of it?
 
-Nothing. It’s something they wanted to make happen. :contentReference[oaicite:5]{index=5}
+Nothing. It’s something they wanted to make happen.
 
 ### I’m really not a technical person, will I be able to use the tool?
 
-It is more complicated than off‑the‑peg solutions due to limited funding, but they run workshops to support users building their sites. :contentReference[oaicite:6]{index=6}
+It is more complicated than off‑the‑peg solutions due to limited funding, but they run workshops to support users building their sites.
 
 ### Are there tutorial videos and other support documents?
 
-Yes – they will send links to those when setting you up. :contentReference[oaicite:7]{index=7}
+Yes – they will send links to those when setting you up.
 
 ### Will my site look like everyone else’s?
 
-No – you can choose from a range of themed templates and even adapt them if you can code. :contentReference[oaicite:8]{index=8}
+No – you can choose from a range of themed templates and even adapt them if you can code. 
 
 ### How do I get to use the tool?
 
-Send an email telling them who you are. It’s not a selection process—it’s to prevent big corporations hijacking the tool. :contentReference[oaicite:9]{index=9}
+Send an email telling them who you are. It’s not a selection process—it’s to prevent big corporations hijacking the tool.
 
 ### What if I decide not to use the tool after signing up?
 
-Nothing – you’re free to change your mind. :contentReference[oaicite:10]{index=10}
+Nothing – you’re free to change your mind.
 
 ### I’d like to support a workshop for artists in my area/students I teach/some other group – what do I do?
 
-Excellent – get in touch! :contentReference[oaicite:11]{index=11}
+Excellent – get in touch!
 
 ### I’m a funder and I’d like to support you for further work – what do I do?
 
-They would be delighted to hear from you. :contentReference[oaicite:12]{index=12}
+They would be delighted to hear from you. 
 
-Digital Climate Action site builder is created using public funding from Arts Council England. :contentReference[oaicite:13]{index=13}
-
-
-## Recent Articles & Updates
-
-*(Not listed here — see the original page.)*
-
-
-## Sign up for “culture + connection”
-
-Get new insights on human behaviour, technology for climate action and all things digital culture. You’ll also be the first to know about upcoming artworks and events.
-
-**What can we email you about?**  
-- The really important stuff, like new shows  
-- The other stuff – fortnightly recommendations, inspirations, recipes...
-
-_Check box to confirm:_  
-I would like Fast Familiar to keep me updated via email
-
-*(They use Mailchimp — unsubscribing anytime.)* :contentReference[oaicite:14]{index=14}
-
-
-## How can we help you?
-
-Are you looking for new ways to understand and inspire people?
-
-If you’d like to collaborate on something new, have a question about audience‑centric theatre, or need a sounding board for your ideas, they’d love to talk. :contentReference[oaicite:15]{index=15}
-
-**Stay connected:**  
-- Twitter  
-- Instagram  
-- Facebook
-
-
-*This site is powered using 100% renewable energy*  
-*Build:* `06411ca`  
-*Fast Familiar 2024. | Privacy Policy | Consent Preferences*  
-*Registered in England and Wales No: 06191989 | Registered Charity No: 1120667* :contentReference[oaicite:16]{index=16}
+Digital Climate Action site builder is created using public funding from Arts Council England. 
