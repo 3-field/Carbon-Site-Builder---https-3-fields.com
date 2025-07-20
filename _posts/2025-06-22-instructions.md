@@ -3,7 +3,7 @@ title: Instructions
 date: 2025-06-22
 description: Welcome to Your First Carbon Neutral Site 🎉🌲
 categories:
-image: https://3-fields.b-cdn.net/graphics/TF_VisualGraphic-06-03.jpg
+image: https://i.postimg.cc/02GMQM1w/three-fields-graphic-version-2.png
 author_staff_member: Fast_Familiar
 ---
 
