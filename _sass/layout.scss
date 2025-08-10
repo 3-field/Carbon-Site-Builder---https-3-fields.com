@@ -34,6 +34,12 @@ header {
 
 	.container {
 		line-height: 0;
+		
+		@media #{$mid-point} {
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+		}
 	}
 
 	&.header-background {
@@ -86,7 +92,12 @@ header {
 	.company-name {
 		font-size: 1.7em;
 		display: inline-block;
-                 display: block;
+		
+		@media #{$mid-point} {
+			display: flex;
+			align-items: center;
+		}
+		
 		img {
 			height: 30px;
 			width: auto;
