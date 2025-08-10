@@ -3,7 +3,7 @@ title: Digital climate action site builder
 date: 2025-06-20
 description: Fast Familiar have created a digital climate action site builder
 categories:
-image: https://i.postimg.cc/02GMQM1w/three-fields-graphic-version-2.png
+image: https://fastfamiliar.b-cdn.net/sitebuilder/image.png
 author_staff_member: Fast_Familiar
 ---
 
