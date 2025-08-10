@@ -1,10 +1,9 @@
 (function () {
 	var header = document.getElementById("mainHeader");
 
-	function changeHeader() {
-          header.classList.add("header-background");
-        }
-
+function changeHeader() {
+  header.classList.add("header-background");
+}
 
 	var didScroll = false;
 
