@@ -21,9 +21,9 @@ nav {
 	position: relative;
 	top: -7px;
 	text-shadow: none;
-	background: $brand-color-1; // <-- add this here
-	padding: 10px 0; // optional: match your nav-open padding
-
+	background: $brand-color-1;
+	padding: 10px 0;
+         z-index: 10;
 	@media #{$mid-point} {
 		padding: 0 20px;
 		display: inline;
