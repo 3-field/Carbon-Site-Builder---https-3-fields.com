@@ -3,7 +3,7 @@ title: Instructions
 date: 2025-06-22
 description: Welcome to Your First Carbon Neutral Site 🎉🌲
 categories:
-image: https://drive.google.com/file/d/1FQm5tXRz76fiN-MSoeRCktAi3od70H0J/view?usp=sharing
+image: https://fastfamiliar.b-cdn.net/sitebuilder/dog.jpg
 author_staff_member: Fast_Familiar
 ---
 
