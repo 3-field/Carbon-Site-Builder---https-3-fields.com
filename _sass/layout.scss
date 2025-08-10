@@ -71,7 +71,7 @@ header {
 		@media #{$mid-point} {
 			height: 100%;
 		}
-		display: block;
+
 
 		span {
 			display: block;
@@ -86,12 +86,17 @@ header {
 	.company-name {
 		font-size: 1.7em;
 		display: inline-block;
-
+                 display: block;
 		img {
 			height: 30px;
 			width: auto;
 		}
 	}
+    @media #{$mid-point} {
+      header nav a { display: inline-block; }
+      header nav a.nav-toggle,
+      header nav #open-nav { display: none; }
+    }
 }
 
 .content {

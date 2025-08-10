@@ -64,27 +64,3 @@ nav {
   nav a.nav-toggle { display: none !important; }
 }
 
-
-/* Hide hamburger everywhere */
-body nav a.nav-toggle,
-body nav #open-nav {
-  display: none !important;
-}
-
-/* Belt-and-suspenders in case .nav-open is set by JS */
-body.nav-open nav a.nav-toggle,
-body.nav-open nav #open-nav {
-  display: none !important;
-}
-
-/* Optional: if your open state reveals all <a>, keep it from reappearing */
-.nav-open nav a:not(.nav-toggle):not(#open-nav) {
-  display: block;
-  padding: 30px 0;
-}
-@media #{$mid-point} {
-  .nav-open nav a:not(.nav-toggle):not(#open-nav) {
-    display: inline;
-    padding: 14px 10px;
-  }
-}
