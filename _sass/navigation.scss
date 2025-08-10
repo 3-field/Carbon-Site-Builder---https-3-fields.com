@@ -1,65 +1,64 @@
-.nav-open nav {
-	border-bottom: 1px dotted rgba(255, 255, 255, .2);
-	padding: 10px 0;
-	a {
-		display: block;
-		padding: 30px 0;
-	}
-	@media #{$mid-point} {
-		border: 0;
-		padding: 0 20px;
-		a {
-			display: inline;
-		}
-	}
-}
+/* Remove ALL of this (no more transparent/toggle state)
+.nav-open nav { ... }
+*/
 
+/* Simple, always-solid navbar */
 nav {
-	text-transform: uppercase;
-	font-size: 1.5em;
-	width: 100%;
-	position: relative;
-	top: -7px;
-	text-shadow: none;
-	background: $brand-color-1;
-	padding: 10px 0;
-         z-index: 10;
-	@media #{$mid-point} {
-		padding: 0 20px;
-		display: inline;
-	}
+  text-transform: uppercase;
+  font-size: 1em;
+  width: 100%;
+  position: relative;
+  top: -7px;
+  text-shadow: none;
 
-	a {
-		margin: 0 3px;
-		padding: 14px 10px;
-		border: 0;
-		display: none;
+  background: $brand-color-1;   // solid background always
+  padding: 10px 0;
+  z-index: 10;
 
-		@media #{$mid-point} {
-			display: inline;
-			border-bottom: 1px solid rgba(255,255,255,0);
-			color: rgba(255,255,255,.8);
-		}
+  /* keep nav a block/flex element so bg spans full width */
+  display: block;                // or: display: flex; align-items: center; flex-wrap: wrap;
 
-		&.nav-toggle {
-			display: inline;
-			position: absolute;
-			right: 10px;
-			top: -7px;
-			font-size: 1.9em;
-			border: 0;
-			text-shadow: 0;
-			padding: 0 !important;
-			@media #{$mid-point} {
-				display: none;
-			}
-			&:hover {
-				border: 0;
-			}
-		}
-	}
+  @media #{$mid-point} {
+    padding: 0 20px;
+    /* IMPORTANT: don't set inline here */
+    display: block;              // or keep flex if you chose flex above
+  }
 
-	a.active {
-		border-bottom: 5px solid $brand-color-2;
-	}
+  a {
+    margin: 0 3px;
+    padding: 14px 10px;
+    border: 0;
+
+    /* mobile: stack links */
+    display: block;
+
+    @media #{$mid-point} {
+      /* desktop: inline links */
+      display: inline-block;
+      border-bottom: 1px solid rgba(255,255,255,0);
+      color: rgba(255,255,255,.8);
+    }
+
+    &.nav-toggle {
+      /* if you’re removing the open/close behavior, hide the hamburger */
+      display: none;
+      position: absolute;
+      right: 10px;
+      top: -7px;
+      font-size: 1.9em;
+      border: 0;
+      text-shadow: 0;
+      padding: 0 !important;
+
+      @media #{$mid-point} {
+        display: none;
+      }
+
+      &:hover { border: 0; }
+    }
+  }
+
+  a.active {
+    border-bottom: 5px solid $brand-color-2;
+  }
 }
