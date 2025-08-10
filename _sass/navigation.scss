@@ -1,4 +1,4 @@
-nav {
+.nav-open nav {
 	border-bottom: 1px dotted rgba(255, 255, 255, .2);
         background: $brand-color-1;
 	padding: 10px 0;
@@ -18,20 +18,18 @@ nav {
 }
 
 nav {
-	text-transform: uppercase;
-        display: flex;
-        background: $brand-color-1;
-	font-size: 1em;
-	width: 100%;
-	position: relative;
-	top: -7px;
-	text-shadow: none;
-
-	@media #{$mid-point} {
-		padding: 0 20px;
-		display: inline;
-	}
-
+        background: $brand-color-1; /* solid background always */
+        text-transform: uppercase;
+        font-size: .8em;
+        width: 100%;
+        position: relative;
+        top: -7px;
+        text-shadow: none;
+    
+        @media #{$mid-point} {
+            padding: 0 20px;
+            display: inline;
+        }
 
 	a {
 		margin: 0 3px;
