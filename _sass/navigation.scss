@@ -19,12 +19,13 @@
 
 nav {
 	text-transform: uppercase;
+        background: $brand-color-1;
 	font-size: .8em;
 	width: 100%;
 	position: relative;
 	top: -7px;
 	text-shadow: none;
-        background: $brand-color-1;
+
 	@media #{$mid-point} {
 		padding: 0 20px;
 		display: inline;
