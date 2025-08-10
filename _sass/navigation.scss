@@ -1,60 +1,33 @@
-/* Remove ALL of this (no more transparent/toggle state)
-.nav-open nav { ... }
-*/
-
-/* Simple, always-solid navbar */
+/* Simple, always-solid, one-line navbar (no hamburger/toggle) */
 nav {
   text-transform: uppercase;
   font-size: 1em;
   width: 100%;
-  position: relative;
-  top: -7px;
+  position: relative; /* removed top:-7px; */
   text-shadow: none;
-
-  background: $brand-color-1;   // solid background always
-  padding: 10px 0;
+  background: $brand-color-1;
+  padding: 10px 20px;
   z-index: 10;
 
-  /* keep nav a block/flex element so bg spans full width */
-  display: block;                // or: display: flex; align-items: center; flex-wrap: wrap;
-
-  @media #{$mid-point} {
-    padding: 0 20px;
-    /* IMPORTANT: don't set inline here */
-    display: block;              // or keep flex if you chose flex above
-  }
+  /* one-line layout */
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: nowrap;         /* keep on one line */
+  white-space: nowrap;       /* prevent line breaks */
+  overflow-x: auto;          /* scroll if too many links */
 
   a {
-    margin: 0 3px;
+    margin: 0;               /* flex gap handles spacing */
     padding: 14px 10px;
     border: 0;
-
-    /* mobile: stack links */
-    display: block;
-
-    @media #{$mid-point} {
-      /* desktop: inline links */
-      display: inline-block;
-      border-bottom: 1px solid rgba(255,255,255,0);
-      color: rgba(255,255,255,.8);
-    }
+    display: inline-flex;
+    align-items: center;
+    border-bottom: 1px solid rgba(255,255,255,0);
+    color: rgba(255,255,255,.9);
 
     &.nav-toggle {
-      /* if you’re removing the open/close behavior, hide the hamburger */
-      display: none;
-      position: absolute;
-      right: 10px;
-      top: -7px;
-      font-size: 1em;
-      border: 0;
-      text-shadow: 0;
-      padding: 0 !important;
-
-      @media #{$mid-point} {
-        display: none;
-      }
-
-      &:hover { border: 0; }
+      display: none !important; /* hide hamburger everywhere */
     }
   }
 
