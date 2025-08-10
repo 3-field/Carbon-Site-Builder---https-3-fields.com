@@ -16,12 +16,10 @@
 		}
 	}
 }
-.nav-open .site-header {
-  background: $brand-color-1;
-}
 
 nav {
 	text-transform: uppercase;
+        display: flex;
         background: $brand-color-1;
 	font-size: .8em;
 	width: 100%;
