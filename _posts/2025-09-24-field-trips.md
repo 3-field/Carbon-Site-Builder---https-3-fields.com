@@ -3,7 +3,7 @@ title: Field Trips
 date: 2025-09-24
 description: How can we connect the local and the global through remote collaboration:
 categories:
-image: https://www.flickr.com/photos/andfestival/54809064565/
+image: https://i.postimg.cc/rFcJghjk/IMG-0413.jpg
 author_staff_member: Fast_Familiar
 ---
 
@@ -34,12 +34,13 @@ As well as the stone and water mill, which dates back to (what they estimate to 
 
 For my site visit, we went through the Soweto Garden Route: Food Sovereignty Experience, within Johannesburg, South Africa. The first location was at the Food Sovereignty Hub at Wits University: Agroecology & Syntropy, where we met with one of the managers of the garden, who took us on a tour of the garden and seedbank. We were given a short history about the place, the people that work there, as well as the aim and purpose of the garden. The garden grew various types of vegetables and herbs, such as spinach, beetroot, cauliflower, mugwort, etc. Our tour guide grabbed a few raw vegetables and herbs from the garden for us to try. Some of the people I was with were hesitant at first, but as they saw me eating without question they began to nibble as well. As someone who has their own garden, I am accustomed to tasting raw vegetables straight from the ground. 
 
-![alt text](https://i.postimg.cc/wBtc3nqh/IMG-0299.avif)
+![alt text](https://i.postimg.cc/jjkgFz5h/IMG-8036.jpg)
 
 Our second location was at Victoria Yards, Inmed Aquaphonics. A space filled with different creative possibilities such as artist studios, handmade book shops, restaurants, etc., all surrounded by poly-cultured gardens as you walk through the space. We learnt about climate resilient farming, which is integrated into a work space in which people occupy and are able to buy the vegetables and herbs that are grown in the space around them.
 
-
 The last place we went to made a rather beautiful impact on me. The Dihoai Agriculture Project NPO at Lerechabetse Primary is a Food Sovereignty and Skills hub with a community farm, skills centre, classes and kitchen. The space was once a primary school which was abandoned as a result of upheaval during Apartheid South Africa. It has now been turned into a space of faith, soil and story, as the community managed to purchase the school and create a communal space open to everyone. There is a small scale farm that was developed and run by 2 black women who are part of the community. They have no agricultural background but were able to grow crops within the land and learnt how to garden by observing and learning from the garden itself. The surrounding community are able to purchase the vegetables and herbs grown in the garden, such as spinach, chillies, parsley, cabbage, etc. People who live in the area or anywhere else are able to go there to volunteer and help out in any way they can.
+
+![alt text](https://i.postimg.cc/9ffgbxWM/IMG-8072.jpg)
 
 <hr>
 
@@ -47,15 +48,17 @@ The last place we went to made a rather beautiful impact on me. The Dihoai Agric
 
 My field visit was to the fish and meat markets of Pondicherry. The fish market is very much part of the city’s cultural ethos, this being a seaside town, and apart from being just very messy (fish guts and slime!), it was not culturally a difficult visit.
 
+![alt text](https://i.postimg.cc/Sx1fSmhS/IMG-0370.jpg)
 
 The beef market was a bit harder. With the help of a local cook, who works in the kitchens of one of Pondicherry’s creole socialites, I found my way to what he called the best stall in town, at one edge, towards Villianoor. (He was concerned I should see/get the best cuts). We went on a Friday, which is the day the Muslim butchers prepare fresh meat. The slaughter had happened already, at the back, but I was still forbidden to go there. What was out front for us to see was just hanging carcass parts, and men with butcher knives working to cut whatever they needed to sell. “Not my world at all,” said another man who’d accompanied us. Cow slaughter is a sensitive topic among Hindus, but I’d wanted to face myself this other side of the pastoralism that we otherwise valorise, venerate, and worship–or simply turn a blind eye to, the way we do for all other meats. This was a key reason for my wanting to visit, just to face this other side of the food economy that was not mine, and to see what it brought out in me.  
 
-
 Sriram and I went to the big fish market, that one July day in Pondicherry, the way we sometimes step into worlds we know are not our own—gingerly and a bit fearfully. The place is messy, for one, wet with sea water and fresh, guts and slime. The salt spray of ocean waves can’t get you here, but that flying cleaver coming down can splash you something stinky. Women I know who go there to buy fish come home and change clothes and wash feet; it’s like you’ve to transform yourself to go, and transform yourself to come back.
+
+![alt text](https://i.postimg.cc/RZSgCPJR/IMG-0400.jpg)
 
 Women selling on one end, women cleaning on another—there are two stops to make. This is a world of matrons. Men are incidental, having done their fishing already, hanging about or sharpening knives with wheels making sparks. Piles of refuse on which scavenging crows perch, less gingerly but not more fearfully than us. Everyone with a ritual and a role. The market is its own sort of sustaining force with its own unique push-pull, and we the visitors from outer space being jostled.
 
-
+![alt text](https://i.postimg.cc/rFcJghjk/IMG-0413.jpg)
 
 Anthropologists once had villages, once upon a time, or was it that villages had anthropologists. Sure neither of having or being had, I never wrote the stories of this place though every story I’ve ever written is really of this place. But now, see? I’m making a different beginning. And see how Sriram brought his camera magic to this first chapter? 
 
