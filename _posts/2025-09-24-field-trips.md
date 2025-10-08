@@ -15,7 +15,7 @@ Hear more from our artists about their field trips and the initial provocations 
 
 <hr>
 
-**Kaajal Modi**
+# **Kaajal Modi**
 
 My site visit was to Kirkgate Market and Worsbrough Mill. These are (respectively) a working Victorian market in Leeds and a heritage mill in Barnsley. The aim was to join up food contexts that are sites of production to sites of supply and preparation and sale, particularly in terms of the relationships between people, knowledge and ingredients that link (or could potentially link) them. In the morning we visited Kirkgate, making our way through the layers of history that the physical building embodies and interacting with some of the market traders and their wares. The market sells food, but also textiles, homewares and electronics. To me this resonates with the interwoven infrastructures of growing, making and trade that underpin global goods and services. Food and textiles are often grown on the same farms in the global south during different seasons, and digital technologies rely on minerals from many of the same places that our foods (and, as migrant communities, our ancestors) originated from.
 
@@ -30,7 +30,7 @@ As well as the stone and water mill, which dates back to (what they estimate to 
 
 <hr>
 
-**Samukelisiwe Siphesihle Dube**
+# **Samukelisiwe Siphesihle Dube**
 
 For my site visit, we went through the Soweto Garden Route: Food Sovereignty Experience, within Johannesburg, South Africa. The first location was at the Food Sovereignty Hub at Wits University: Agroecology & Syntropy, where we met with one of the managers of the garden, who took us on a tour of the garden and seedbank. We were given a short history about the place, the people that work there, as well as the aim and purpose of the garden. The garden grew various types of vegetables and herbs, such as spinach, beetroot, cauliflower, mugwort, etc. Our tour guide grabbed a few raw vegetables and herbs from the garden for us to try. Some of the people I was with were hesitant at first, but as they saw me eating without question they began to nibble as well. As someone who has their own garden, I am accustomed to tasting raw vegetables straight from the ground. 
 
@@ -44,7 +44,7 @@ The last place we went to made a rather beautiful impact on me. The Dihoai Agric
 
 <hr>
 
-**Deepa Reddy**
+# **Deepa Reddy**
 
 My field visit was to the fish and meat markets of Pondicherry. The fish market is very much part of the city’s cultural ethos, this being a seaside town, and apart from being just very messy (fish guts and slime!), it was not culturally a difficult visit.
 
