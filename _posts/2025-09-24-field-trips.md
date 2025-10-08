@@ -1,9 +1,9 @@
 ---
 title: Field Trips
 date: 2025-09-24
-description: How can we connect the local and the global through remote collaboration:
+description: How can we connect the local and the global through remote collaboration
 categories:
-image: https://i.postimg.cc/rFcJghjk/IMG-0413.jpg
+image: https://i.postimg.cc/rFcJghjk/IMG-0413.jpg 
 author_staff_member: Fast_Familiar
 ---
 
