@@ -1,6 +1,6 @@
 ---
 title: Fields Trips
-date: 2025-06-20
+date: 2025-10-09
 description: How can we connect the local and the global through remote collaboration?
 categories:
 image: https://i.postimg.cc/Sx1fSmhS/IMG-0370.jpg
