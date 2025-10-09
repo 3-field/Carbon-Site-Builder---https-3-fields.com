@@ -1,5 +1,5 @@
 ---
-title: <span style='color: white;'>Field Trips</span>
+title: Field Trips
 date: 2025-10-09
 description: How can we connect the local and the global through remote collaboration?
 categories:
