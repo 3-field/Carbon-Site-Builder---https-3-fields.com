@@ -1,7 +1,7 @@
 ---
-title: Digital climate action site builder
+title: Fields Trips
 date: 2025-06-20
-description: Fast Familiar have created a digital climate action site builder
+description: How can we connect the local and the global through remote collaboration?
 categories:
 image: https://i.postimg.cc/Sx1fSmhS/IMG-0370.jpg
 author_staff_member: Fast_Familiar
@@ -13,7 +13,7 @@ Key conversations have started to manifest around how food and food production c
 
 Hear more from our artists about their research site visits and the initial provocations they inspired:
 
-
+<hr>
 
 
 ## Kaajal Modi:
@@ -27,6 +27,7 @@ In the afternoon, we visited the site of Worsborough Mill, a (usually working) h
 ![Children on a pier looking out into a revervoir.](https://i.postimg.cc/wBtc3nqh/IMG-0299.avif)
 
 As well as the stone and water mill, which dates back to (what they estimate to be) the 1400s, there is also a nature park on-site with a rich selection of plants (including wild foods such as plums, nettle and bramble), a small herb garden planted by volunteers, and a patch of Himalayan Balsam, an “invasive” plant that Ben told us was “bashed” back in early spring before it flowered by volunteers. Himalayan Balsam has a rich history as a garden plant that was brought over from Kashmir by the Victorians, and in its native context it is also eaten by locals as part of curries and pickled salads. 
+<hr>
 
 ## Samukelisiwe Siphesihle Dube:
 For my site visit, we went through the Soweto Garden Route: Food Sovereignty Experience, within Johannesburg, South Africa. The first location was at the Food Sovereignty Hub at Wits University: Agroecology & Syntropy, where we met with one of the managers of the garden, who took us on a tour of the garden and seedbank. We were given a short history about the place, the people that work there, as well as the aim and purpose of the garden. The garden grew various types of vegetables and herbs, such as spinach, beetroot, cauliflower, mugwort, etc. Our tour guide grabbed a few raw vegetables and herbs from the garden for us to try. Some of the people I was with were hesitant at first, but as they saw me eating without question they began to nibble as well. As someone who has their own garden, I am accustomed to tasting raw vegetables straight from the ground. 
@@ -38,7 +39,7 @@ Our second location was at Victoria Yards, Inmed Aquaphonics. A space filled wit
 The last place we went to made a rather beautiful impact on me. The Dihoai Agriculture Project NPO at Lerechabetse Primary is a Food Sovereignty and Skills hub with a community farm, skills centre, classes and kitchen. The space was once a primary school which was abandoned as a result of upheaval during Apartheid South Africa. It has now been turned into a space of faith, soil and story, as the community managed to purchase the school and create a communal space open to everyone. There is a small scale farm that was developed and run by 2 black women who are part of the community. They have no agricultural background but were able to grow crops within the land and learnt how to garden by observing and learning from the garden itself. The surrounding community are able to purchase the vegetables and herbs grown in the garden, such as spinach, chillies, parsley, cabbage, etc. People who live in the area or anywhere else are able to go there to volunteer and help out in any way they can.
 
 ![A building with text on the side that reads - This classroom was building in 5 days. No water. No Cement. No waste.](https://i.postimg.cc/9ffgbxWM/IMG-8072.jpg)
-
+<hr>
 
 ## Deepa Reddy:
 My field visit was to the fish and meat markets of Pondicherry. The fish market is very much part of the city’s cultural ethos, this being a seaside town, and apart from being just very messy (fish guts and slime!), it was not culturally a difficult visit.
@@ -56,7 +57,10 @@ Anthropologists once had villages, once upon a time, or was it that villages had
 
 ![Two people crouching and smiling next to a fishing boat.](https://i.postimg.cc/RZSgCPJR/IMG-0400.jpg)
 
+<hr>
 The artists shared some more insights from this project at Fak'ugesi in October 2025. Sign up to their newsletter for more programme details. 
 
 Three Fields is an international collaboration between Abandon Normal Devices, Arts Catalyst, Fakugesi, Fast Familiar and Unbox. Funded by the British Council’s International Collaboration Grants and supported using public funding by Arts Council England. 
+
+Images taken by the artists. 
 
