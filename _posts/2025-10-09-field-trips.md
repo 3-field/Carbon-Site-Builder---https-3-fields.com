@@ -58,7 +58,7 @@ Anthropologists once had villages, once upon a time, or was it that villages had
 ![Two people crouching and smiling next to a fishing boat.](https://i.postimg.cc/RZSgCPJR/IMG-0400.jpg)
 
 <hr>
-The artists shared some more insights from this project at Fak'ugesi in October 2025. Sign up to their newsletter for more programme details. 
+The artists shared some more insights from this project at Fak'ugesi in October 2025. 
 
 Three Fields is an international collaboration between Abandon Normal Devices, Arts Catalyst, Fakugesi, Fast Familiar and Unbox. Funded by the British Council’s International Collaboration Grants and supported using public funding by Arts Council England. 
 
