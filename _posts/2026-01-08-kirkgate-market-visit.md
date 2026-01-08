@@ -3,7 +3,7 @@ title: Kirkgate Market Visit
 date: 2026-01-08
 description: Following a site visit of the Kirkgate Market in Leeds earlier this summer, where Kaajal Modi guided the Three Fields UK team throughout the stalls and the alleys of the indoor and outdoor Victorian market, in November the artist embarked on a four-week residency at the market. 
 categories:
-image: https://i.postimg.cc/sXzxQ251/IMG-7924-(1).avif
+image: https://postimg.cc/R3P424sz
 author_staff_member: Fast_Familiar
 ---
 Following a site visit of the Kirkgate Market in Leeds earlier this summer, where Kaajal Modi guided the Three Fields UK team throughout the stalls and the alleys of the indoor and outdoor Victorian market, in November the artist embarked on a four-week residency at the market. 
