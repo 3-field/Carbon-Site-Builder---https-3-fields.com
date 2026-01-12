@@ -3,10 +3,12 @@ title: Kirkgate Market Visit
 date: 2026-01-08
 description: How can we connect the local and the global through remote collaboration?
 categories: Blog
-image: https://i.postimg.cc/k5wNG3mL/IMG-7924-(1).jpg
+image: https://i.postimg.cc/bNWxNhb6/IMG-0381.jpg
 author_staff_member: Fast_Familiar
 ---
 Following a site visit of the Kirkgate Market in Leeds earlier this summer, where Kaajal Modi guided the Three Fields UK team throughout the stalls and the alleys of the indoor and outdoor Victorian market, in November the artist embarked on a four-week residency at the market. 
+
+image: https://i.postimg.cc/k5wNG3mL/IMG-7924-(1).jpg
 
 Accompanied by the first frost of the year, Kaajal had access to a stall, where they brought into action some of the conversations they had been sharing with Deepa Reddy and Samukelisiwe Dube as part of their remote translocal collaboration. 
 
