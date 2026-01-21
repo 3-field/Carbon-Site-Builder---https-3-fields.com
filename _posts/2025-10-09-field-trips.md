@@ -4,7 +4,7 @@ date: 2025-10-09
 description: How can we connect the local and the global through remote collaboration?
 categories:
 image: https://i.postimg.cc/bNWxNhb6/IMG-0381.jpg
-author_staff_member: Fast_Familiar
+author_staff_member:
 ---
 
 Our Three Fields artists Deepa Reddy, Kaajal Modi and Samukelisiwe Siphesihle Dube have now embarked on their remote collaboration, experimenting in ways to find rich, creative connection across continents through environmentally conscious digital practices. 
