@@ -1,7 +1,7 @@
 ---
 title: Kirkgate Market Visit
 date: 2026-01-08
-description: How can we connect the local and the global through remote collaboration?
+description: A blog post by Kaajal Modi
 categories: Blog
 image: https://i.postimg.cc/L5Vb8qft/IMG-7924.jpg
 author_staff_member: Fast_Familiar
