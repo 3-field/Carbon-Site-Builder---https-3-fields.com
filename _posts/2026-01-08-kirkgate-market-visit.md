@@ -44,4 +44,6 @@ The ingredients I put into the jars were sourced from the market: dug from bins,
 
 ![charcoal burning in a bowl.](https://i.postimg.cc/vT0SxXSV/IMG-0224.avif)
 
+Artist note: my use of the term 'kala namak' in this text was based on a mistranslation / misunderstanding at the time of writing. Kala namak is by rights a term used only for the kiln-fired black salt produced with a specific mineral preparation using a reductive chemical process in the Himalayan region of South Asia. My understanding has since changed through research and an evolving understanding about ash salts through ongoing artist conversations and a workshop with a community of herbalists in West Yorkshire. The text is being left as it stands to reflect this evolving understanding.
+
 
