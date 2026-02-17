@@ -1,5 +1,5 @@
 ---
-title: Deepa Reddy: Listening to Black Pepper
+title: Listening to Black Pepper
 date: 2026-02-04
 description: 
 categories: Blog

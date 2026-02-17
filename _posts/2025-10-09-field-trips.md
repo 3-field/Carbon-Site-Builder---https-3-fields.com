@@ -2,7 +2,7 @@
 title: Field Trips
 date: 2025-10-09
 description: How can we connect the local and the global through remote collaboration?
-categories:
+categories: Event
 image: https://i.postimg.cc/bNWxNhb6/IMG-0381.jpg
 author_staff_member:
 ---
