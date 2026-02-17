@@ -1,5 +1,5 @@
 ---
-title: Kirkgate Market Visit
+title: Kaajal Modi: Kirkgate Market residency
 date: 2026-01-08
 description: A blog post by Kaajal Modi
 categories: Blog
