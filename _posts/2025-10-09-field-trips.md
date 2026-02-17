@@ -7,7 +7,7 @@ image: https://i.postimg.cc/bNWxNhb6/IMG-0381.jpg
 author_staff_member:
 ---
 
-Our Three Fields artists Deepa Reddy, Kaajal Modi and Samukelisiwe Siphesihle Dube have now embarked on their remote collaboration, experimenting in ways to find rich, creative connection across continents through environmentally conscious digital practices. 
+Our THREE FIELDS artists Deepa Reddy, Kaajal Modi and Samukelisiwe Siphesihle Dube have now embarked on their remote collaboration, experimenting in ways to find rich, creative connection across continents through environmentally conscious digital practices. 
 
 Key conversations have started to manifest around how food and food production connect to stories of migration and global movement. From these initial conversations, the artists selected sites within contexts local to them (India, the UK and South Africa) drawing on their own communities to explore links between the local and global and how creative digital technology can be used to capture the sensorial nature of these physical sites within a shared immersive experience.
 
