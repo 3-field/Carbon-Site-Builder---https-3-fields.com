@@ -1,3 +1,29 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	{% seo %}
+	{% feed_meta %}
+	<link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="{{ site.baseurl }}/touch-icon.png" sizes="192x192">
+	<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicon.png">
+	<link rel="stylesheet" href="https://use.typekit.net/phq4jsa.css">
+	<link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css">
+	{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
+	<script>
+		window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;
+		ga('create', '{{ site.google_analytics_key }}', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<script async src='https://www.google-analytics.com/analytics.js'></script>
+	{% endif %}
+</head>
+
+<body>
+
 [![image](https://www.andfestival.org.uk/app/uploads/2026/02/image_landscape_bg_low.gif)](https://casualmouldy.itch.io/salt)
 
 Salt is a prototype game produced by artist Kaajal Modi for EyeMyth Festival, 2026 as part of THREE FIELDS.
@@ -7,3 +33,50 @@ THREE FIELDS is a collaboration by three artists across India (Deepa Reddy), Sou
 The collaboration focused on using sustainable digital production tools; setting a new precedent for environmentally conscious creative digital practices. 
 
 ### [ _**Play Salt**_]((https://casualmouldy.itch.io/salt))
+	<header id="mainHeader">
+		<div class="container">
+			<div class="company-name">
+				<a href="{{ site.baseurl }}/">
+					<span class="dark-logo"><img width="104" height="38"
+							src="https://i.postimg.cc/GmrDJPxK/three-fields-black.png"
+							alt="dark three fields logo">
+                                        </span>
+					<span class="light-logo"><img width="104" height="38"
+							src="https://i.postimg.cc/kXW8bYKD/three-fields-white.png"
+							alt="light three fields logo">
+                                        </span>
+				</a>
+			</div>
+			{% include navigation.html %}
+		</div>
+	</header>
+	{{ content }}
+<footer>
+	<div class="images">
+		<img class="editable" height="50"
+			src="https://i.postimg.cc/MKVNNx25/AND-Combined-Marks-Black.png" alt="AND Logo">
+		<img class="editable" height="50"
+			src="https://i.postimg.cc/DZQ4R86F/Screen-Single-Colour-Stroke-Square.png"
+			alt="Unboxed Logo">
+		<img class="editable" height="50"
+			src="https://i.postimg.cc/m2kN1yVH/Fak-ugesi-TP-Website-rev02.png"
+			alt="Fak'ugesi Festival Logo">
+		<img class="editable" height="50"
+			src="https://i.postimg.cc/Y09ggtNH/Image.png"
+			alt="Fast Familiar Logo">
+		<img class="editable" height="50"
+			src="https://i.postimg.cc/kGzVbKXQ/AClogo-black-transparent.png"
+			alt="Arts Catalyst Logo">
+		<img class="editable" height="50"
+			src="https://i.postimg.cc/3wGnMbHH/british-council-logo-black.png">
+		<img class="editable" height="50"
+			src="https://i.postimg.cc/br7JJP3L/grant-png-black.png" alt="Grant Logo">
+	</div>
+</footer>
+
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+	<script src="{{ site.baseurl }}/js/main.js"></script>
+</body>
+
+</html>
