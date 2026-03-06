@@ -75,4 +75,4 @@ Don’t move. Listen to the stories with your whole self. Become alive to the so
 
 Deepa and THREE FIELDS will be part of EyeMyth in New Delhi, 21-22nd February 2026. [Find out more](https://www.instagram.com/eyemythfestival/). 
 
-[Read about artist Kaajal Modi's residency in Leeds UK](https://3-fields.com/blog/2026/01/08/kirkgate-market-visit/). 
+[Read about artist Kaajal Modi's residency in Leeds UK](https://3-fields.com/blog/2026/01/08/kirkgate-market-visit/)
