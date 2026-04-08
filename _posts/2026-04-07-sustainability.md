@@ -1,6 +1,6 @@
 ---
 title: Experiments in sustainable practices
-date: 2026-04-08
+date: 2026-04-07
 description: 
 categories: Blog
 image: https://www.andfestival.org.uk/app/uploads/2026/04/THREE-FIELDS-at-EyeMyth-Delhi-2026-6-scaled.jpg
