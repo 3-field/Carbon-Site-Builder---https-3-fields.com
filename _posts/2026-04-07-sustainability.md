@@ -7,7 +7,7 @@ image: https://www.andfestival.org.uk/app/uploads/2026/04/THREE-FIELDS-at-EyeMyt
 author_staff_member: Fast_Familiar
 ---
 
-As part of our guiding principles of THREE FIELDS, we attempted to create a working process and digital artwork that did as little environmental harm as possible. [Fast Familiar](https://fastfamiliar.com/)’s Dan Barnard shares some of the key takeaways and the major challenges around sustainability that we faced as part of this year-long intercontinental project. 
+As part of our guiding principles of THREE FIELDS, we attempted to create a working process and digital artwork that did as little environmental harm as possible. [Fast Familiar](https://fastfamiliar.com/)’s Dan Barnard shares some of the key takeaways and the major challenges around sustainability that we faced as part of this year-long translocal project. 
 
 <hr>
 
