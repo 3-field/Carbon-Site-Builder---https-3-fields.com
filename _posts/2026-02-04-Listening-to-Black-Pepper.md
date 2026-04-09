@@ -3,7 +3,7 @@ title: Listening to Black Pepper with Deepa Reddy
 date: 2026-02-04
 description: 
 categories: Blog
-image: https://i.postimg.cc/y8QYWCYH/IMG_3365.jpg
+image: https://i.postimg.cc/vBKL0MnF/IMG_3365.jpg
 author_staff_member: Fast_Familiar
 ---
 
@@ -29,7 +29,7 @@ Here is a landscape made first by pepper, which was there at the beginning, our 
 
 No wonder then, that we have forgotten entirely the imaginarium that pepper once was. That swift turn of the pepper mill that cracks the corns cracks memory and lineage, too. 
 
-[![Raw pepper plant](https://i.postimg.cc/VkGL5PL0/IMG_7204.jpg)](https://postimg.cc/MnB8r4Bz)
+[![Raw pepper plant](https://i.postimg.cc/d1fm5vCM/IMG_7204.jpg)
 
 **REMAKING THE SOIL**
 
@@ -39,7 +39,7 @@ Beneath and betwixt the migratory threads that became our focus in the THREE FIE
 
 Thippili was of course long pepper, Piper Longum, chilli-like in how it pops up and forms, likewise containing incomparable pungency. Piper Nigrum, black pepper, was pepper first by comparison, named by all these swirling commercial movements, Roman partialities, Plinian pronouncements, changing European tastes. It all happened such that nobody really paid attention to how its old Tamil name kaṟi/கறி travelled to become the Anglicized “curry”: the hot, the pungent, the burning, the blackening, the spiced. Pepper has always been just here like that, an old native signifier, differentiated commercially into Kerala Tellicherry or Cambodian Kampot by soil or ripening time or processing care but otherwise differentiated by cultivars, of which there are over 75 in India alone. 
 
-[![Peppercorns in a black bowl](https://i.postimg.cc/y8QYWCYH/IMG_3365.jpg)](https://postimg.cc/gxhPB5ZS)
+![Peppercorns in a black bowl](https://i.postimg.cc/vBKL0MnF/IMG_3365.jpg)
 
 **FINDING FRAGMENTS**
 
@@ -55,7 +55,7 @@ But then the fragments interjected. The toddy palm, that other native witness do
 
 What else do we have that lasts so long these days? Plastic, nuclear waste, polystyrene, toxicities. Not that permanence, I thought, increasingly aware of the toddy palm’s prickly, stately counter to the merely ephemeral, its own quest for eternity. It’s not only things which don’t bio-degrade that last forever. Eternity is neither inert nor obdurate or toxic, but a richly living, sustaining thing.
 
-[![Pepper in black bowl](https://i.postimg.cc/j5rVSMNv/IMG-3529.jpg)](https://postimg.cc/VS4Z7BKb)
+![Pepper in black bowl](https://i.postimg.cc/Px7zShwg/IMG_3529.jpg)
 
 **LISTENING FOR THE PLACE THAT PEPPER MADE**
 
@@ -73,6 +73,6 @@ Don’t move. Listen to the stories with your whole self. Become alive to the so
 
 <hr>
 
-Deepa and THREE FIELDS will be part of EyeMyth in New Delhi, 21-22nd February 2026. [Find out more](https://www.instagram.com/eyemythfestival/). 
+[Read about artist Kaajal's residency in Leeds UK.](https://3-fields.com/blog/2026/01/08/Kirkgate-Market-residency/)
 
-[Read about artist Kaajal Modi's residency in Leeds UK](https://3-fields.com/blog/2026/01/08/Kirkgate-Market-residency/)
+[Read about Samu's experiments in sound](https://3-fields.com/blog/2026/03/06/samu/).
