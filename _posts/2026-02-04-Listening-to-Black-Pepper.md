@@ -76,3 +76,5 @@ Don’t move. Listen to the stories with your whole self. Become alive to the so
 [Read about artist Kaajal's residency in Leeds UK.](https://3-fields.com/blog/2026/01/08/Kirkgate-Market-residency/)
 
 [Read about Samu's experiments in sound](https://3-fields.com/blog/2026/03/06/samu/).
+
+Listen to [our latest podcast episodes](https://3-fields.com/podcast/) on exploring digital practices and food through the lens of its movement, migration and distribution. 
