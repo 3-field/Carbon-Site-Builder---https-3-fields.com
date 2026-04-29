@@ -92,7 +92,8 @@ To consider what travels through food, through sound, through memory, and what r
 
 [Listen to Cinammon](https://www.andfestival.org.uk/app/uploads/2026/04/3S-CINNAMON-FinalPOC-040626.wav)
 
-<hr>
+
+
 
 THREE FIELDS is an international co-commission between Abandon Normal Devices, Arts Catalyst, Fak’ugesi, Fast Familiar and Unbox. Funded by the British Council’s International Collaboration Grants and supported using public funding by Arts Council England. 
 
