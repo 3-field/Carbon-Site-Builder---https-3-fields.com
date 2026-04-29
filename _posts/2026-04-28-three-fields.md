@@ -34,7 +34,7 @@ Likewise, the pepper soundscape is inherently and instinctively bilingual, in di
 
 Hear the poems and the poets singing, hear the pati, hear the cooking, hear the challenges and the ripostes; feel the water, the sea-breeze blowing, the fire lighting and burning, all in the world which pepper made and burned black, like its own crinkly hard self. Listen to:
 
-[<h2>How will I tell you?](https://drive.google.com/file/d/1Rx9RjyA1qf1RU1qRoLkIdsnunXFXitY3/view) - [Listen!](https://drive.google.com/file/d/1iuBUEp52dMKcZ0dx-xDOyl1fCkv31_iA/view) - [Seed of the World](https://drive.google.com/file/d/1Kia_O5fyo9_vtUKl_kduNN96mOdlF87E/view) - [Mulligatawny</h2>](https://drive.google.com/file/d/1JD0pun6ApvkWDvL4OzlLNl8wRvRGGr1S/view)
+[How will I tell you?](https://drive.google.com/file/d/1Rx9RjyA1qf1RU1qRoLkIdsnunXFXitY3/view) - [Listen!](https://drive.google.com/file/d/1iuBUEp52dMKcZ0dx-xDOyl1fCkv31_iA/view) - [Seed of the World](https://drive.google.com/file/d/1Kia_O5fyo9_vtUKl_kduNN96mOdlF87E/view) - [Mulligatawny](https://drive.google.com/file/d/1JD0pun6ApvkWDvL4OzlLNl8wRvRGGr1S/view)
 
 **Salt, Kaajal Modi (UK)**
 
@@ -50,7 +50,6 @@ Salt, like the stories it holds and the soundscapes created from these, has the 
 
 This project is about the journeys we take over time and tide, the tears we shed over the things we leave behind, and opportunities to imagine differently. You are offered a route well-travelled, but you are also offered opportunities to reveal what is hidden in the most mundane ingredients you might encounter in your kitchen and in your landscape. These hidden encounters layer, and offer spaces for your own experiences, until (I hope that) what is revealed is your own story in relation to those you have been reading about, and listening to.
 
-</section>
 <section class="info">
     <div class="container flex">
         <iframe frameborder="0" src="https://itch.io/embed-upload/16546199?color=04bade" allowfullscreen="" style="width: 100%; aspect-ratio: 1/1;">
@@ -93,7 +92,7 @@ To notice what surfaces.
 
 To consider what travels through food, through sound, through memory, and what remains.
 
-[<h2>Listen to Cinammon</h2>](https://www.andfestival.org.uk/app/uploads/2026/04/3S-CINNAMON-FinalPOC-040626.wav)
+[Listen to Cinammon](https://www.andfestival.org.uk/app/uploads/2026/04/3S-CINNAMON-FinalPOC-040626.wav)
 
 <hr>
 
