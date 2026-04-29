@@ -20,7 +20,7 @@ These prototype artworks do not present themselves as a cohesive, singular artwo
 Explore the artistic offerings below, introduced by our THREE FIELDS artists. 
 
 
-**<h2>Pepper, Deepa Reddy (India)</h2>**
+**Pepper, Deepa Reddy (India)**
 
 The soundscapes for “Pepper” were conceptualised by Deepa Reddy and creatively engineered by Mrityunjay Satyanarayanan of Āyāhi Atelier. 
 
@@ -36,7 +36,7 @@ Hear the poems and the poets singing, hear the pati, hear the cooking, hear the 
 
 [<h2>How will I tell you?](https://drive.google.com/file/d/1Rx9RjyA1qf1RU1qRoLkIdsnunXFXitY3/view) - [Listen!](https://drive.google.com/file/d/1iuBUEp52dMKcZ0dx-xDOyl1fCkv31_iA/view) - [Seed of the World](https://drive.google.com/file/d/1Kia_O5fyo9_vtUKl_kduNN96mOdlF87E/view) - [Mulligatawny</h2>](https://drive.google.com/file/d/1JD0pun6ApvkWDvL4OzlLNl8wRvRGGr1S/view)
 
-**<h2>Salt, Kaajal Modi (UK)</h2>**
+**Salt, Kaajal Modi (UK)**
 
 Of time and salty tides
 
@@ -65,7 +65,7 @@ This project is about the journeys we take over time and tide, the tears we shed
                 This game is a prototype, please send any feedback to the artist at <a
                     href="mailto:hello@kaajalmodi.com">hello@kaajalmodi.com</a>
 
-**<h2>Cinnamon, Samukelisiwe Siphesihle Dube (South Africa)</h2>**
+**Cinnamon, Samukelisiwe Siphesihle Dube (South Africa)**
 
 This soundscape is an invitation to listen, not only with the ears, but with memory, with the body, and with the land.
 
