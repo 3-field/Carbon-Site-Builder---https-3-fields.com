@@ -55,6 +55,8 @@ This project is about the journeys we take over time and tide, the tears we shed
         <iframe frameborder="0" src="https://itch.io/embed-upload/16546199?color=04bade" allowfullscreen="" style="width: 100%; aspect-ratio: 1/1;">
             <a href="https://casualmouldy.itch.io/salt">Play Salt</a>
         </iframe>
+    </div>
+</section>
 
 
 **Cinnamon, Samukelisiwe Siphesihle Dube (South Africa)**
