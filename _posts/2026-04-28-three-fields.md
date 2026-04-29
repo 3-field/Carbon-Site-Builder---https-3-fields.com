@@ -19,6 +19,7 @@ These prototype artworks do not present themselves as a cohesive, singular artwo
 
 Explore the artistic offerings below, introduced by our THREE FIELDS artists. 
 
+<hr>
 
 **Pepper, Deepa Reddy (India)**
 
@@ -35,6 +36,8 @@ Likewise, the pepper soundscape is inherently and instinctively bilingual, in di
 Hear the poems and the poets singing, hear the pati, hear the cooking, hear the challenges and the ripostes; feel the water, the sea-breeze blowing, the fire lighting and burning, all in the world which pepper made and burned black, like its own crinkly hard self. Listen to:
 
 [How will I tell you?](https://drive.google.com/file/d/1Rx9RjyA1qf1RU1qRoLkIdsnunXFXitY3/view) - [Listen!](https://drive.google.com/file/d/1iuBUEp52dMKcZ0dx-xDOyl1fCkv31_iA/view) - [Seed of the World](https://drive.google.com/file/d/1Kia_O5fyo9_vtUKl_kduNN96mOdlF87E/view) - [Mulligatawny](https://drive.google.com/file/d/1JD0pun6ApvkWDvL4OzlLNl8wRvRGGr1S/view)
+
+<hr>
 
 **Salt, Kaajal Modi (UK)**
 
@@ -58,6 +61,7 @@ This project is about the journeys we take over time and tide, the tears we shed
     </div>
 </section>
 
+<hr>
 
 **Cinnamon, Samukelisiwe Siphesihle Dube (South Africa)**
 
@@ -90,7 +94,7 @@ To consider what travels through food, through sound, through memory, and what r
 [Listen to Cinammon](https://www.andfestival.org.uk/app/uploads/2026/04/3S-CINNAMON-FinalPOC-040626.wav)
 
 
-
+<hr>
 
 THREE FIELDS is an international co-commission between Abandon Normal Devices, Arts Catalyst, Fak’ugesi, Fast Familiar and Unbox. Funded by the British Council’s International Collaboration Grants and supported using public funding by Arts Council England. 
 
