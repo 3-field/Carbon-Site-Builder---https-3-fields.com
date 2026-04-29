@@ -43,7 +43,7 @@ Hear the poems and the poets singing, hear the pati, hear the cooking, hear the 
 
 Of time and salty tides
 
-The interactive narrative, Salt, offers a way of reflecting on and sharing some of the conversations we had been having as artists over the duration of the THREE FIELDS collaboration. It also holds the stories that I have been gathering from the community, within the soundscapes, in their own words and voices, through the residency at Kirkgate market [link - kirkgate blog]. They are the voices of the people I gathered, and the foods and ingredients I was fermenting as inks and dyes in the space, over time, using salt. 
+The interactive narrative, Salt, offers a way of reflecting on and sharing some of the conversations we had been having as artists over the duration of the THREE FIELDS collaboration. It also holds the stories that I have been gathering from the community, within the soundscapes, in their own words and voices, through the [residency at Kirkgate market](https://3-fields.com/blog/2026/01/08/Kirkgate-Market-residency/). They are the voices of the people I gathered, and the foods and ingredients I was fermenting as inks and dyes in the space, over time, using salt. 
 
 Twine is often used to create interactive narratives based on decision-making that guide the player through different experiences based on their choices, in a choose-your-own adventure style text-based game. I wanted to push back against this style of individual ‘heroic’ storytelling, offering instead a more situated polyphony that rewards attentiveness to the everyday and mundane, and that is not quite so straightforward to navigate. These issues are complex, and require attention. This story, and the narrative mechanisms of the story, reward that attention. 
 
