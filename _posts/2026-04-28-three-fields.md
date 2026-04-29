@@ -61,8 +61,7 @@ This project is about the journeys we take over time and tide, the tears we shed
     <div class="container flex">
         <div class="text">
             <p class="editable">
-                This game is a prototype, please send any feedback to the artist at <a
-                    href="mailto:hello@kaajalmodi.com">hello@kaajalmodi.com</a>
+
 
 **Cinnamon, Samukelisiwe Siphesihle Dube (South Africa)**
 
