@@ -62,7 +62,6 @@ This project is about the journeys we take over time and tide, the tears we shed
         <div class="text">
             <p class="editable">
 
-
 **Cinnamon, Samukelisiwe Siphesihle Dube (South Africa)**
 
 This soundscape is an invitation to listen, not only with the ears, but with memory, with the body, and with the land.
